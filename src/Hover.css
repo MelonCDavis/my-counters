@@ -1,0 +1,3 @@
+.counter-card { transition: all 0.25s ease; }
+.counter-card:hover { transform: translateY(-6px) scale(1.02); box-shadow: 0 10px 25px rgba(0, 128, 0, 0.18) !important; }
+.btn:hover { filter: brightness(1.06); }
