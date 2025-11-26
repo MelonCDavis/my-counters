@@ -110,7 +110,7 @@ export default function App() {
             <Form.Control
               type="text"
               value={nameInput}
-              placeholder="Give Thing a name..."
+              placeholder="Give a Thing a name..."
               onChange={(e) => setNameInput(e.target.value)}
             />
           </Form.Group>
