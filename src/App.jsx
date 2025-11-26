@@ -1,11 +1,6 @@
 import { useState, useEffect } from "react";
 import {
-  Container,
-  Row,
-  Col,
-  Form,
-  Button,
-  Card,
+  Container, Row, Col, Form, Button, Card,
 } from "react-bootstrap";
 import Counter from "./Counter.jsx";
 
